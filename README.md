@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Suleman Gani
 
-### BBA Graduate | Aspiring Data Analyst
+### Data Analyst | BBA Graduate
 
-**Data Analysis | Data Visualization | Business Insights**
+**Data Analysis | Data Visualization | Meaningful Insights**
 
 <p>
   <a href="https://linkedin.com/in/suleman-gani-3a9a62392">
@@ -24,19 +24,13 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a BBA Graduate who has completed a Data Analytics course at Besant Technologies. Skilled in data analysis and visualization using Microsoft Excel, SQL, Python and Power BI.
-
-- 🎓 Bachelor of Business Administration (BBA)
-- 📊 Completed Data Analytics Training at Besant Technologies
-- 💻 Skilled in Advanced Microsoft Excel, SQL, Power BI and Python
-- 📈 Interested in data analysis, data visualization and extracting meaningful insights from data
-- 💼 Seeking an entry-level Data Analyst opportunity
+I'm a BBA Graduate with a CGPA of 7.94/10 and have completed a Data Analytics course at Besant Technologies. Skilled in Excel, SQL, Python and Power BI, with knowledge of data analysis and visualization. Seeking an entry-level Data Analyst role.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Advanced Microsoft Excel:** Formulas and Functions, Lookup Functions, Pivot Tables, Pivot Charts, Conditional Formatting, Data Cleaning, Power Query, Data Model and Relationships.
+- **Advanced Microsoft Excel:** Advanced Excel, Formulas and Functions, Lookup Functions, Pivot Tables, Pivot Charts, Conditional Formatting, Data Cleaning, Power Query, Data Model and Relationships.
 - **SQL (MySQL):** Stored Procedures, Window Functions, CTEs, Subqueries, Joins, Views, Aggregate Functions, Transactions and Data Manipulation.
 - **Power BI:** Data Visualization, Dashboard Development and Report Creation.
 - **Python:** Data Analysis.
@@ -67,12 +61,12 @@ I'm a BBA Graduate who has completed a Data Analytics course at Besant Technolog
 ### 📊 Microsoft Excel Projects
 
 **1. Customer Insights & Revenue Analytics**
-- Analyzed customer behavior and revenue trends.
-- Examined repeat customers.
+- Analyzed customer behavior.
+- Explored revenue trends and repeat customers.
 
 **2. E-Commerce Sales Analytics**
-- Analyzed sales trends and product performance.
-- Examined regional sales.
+- Analyzed sales trends.
+- Evaluated product performance and regional sales.
 
 **3. Financial Performance Analytics**
 - Analyzed revenue and expenses.
@@ -85,7 +79,7 @@ I'm a BBA Graduate who has completed a Data Analytics course at Besant Technolog
 - Designed a MySQL database for theater ticket booking and cancellation.
 - Created tables for theaters, bookings and cancelled bookings.
 - Developed stored procedures for booking and cancelling tickets.
-- Practiced SQL queries using joins, subqueries, CTEs, window functions and transaction control.
+- Practiced SQL using joins, subqueries, CTEs, window functions and transaction control.
 
 ---
 
@@ -124,7 +118,7 @@ Janata Vidyalaya, Kadfoka, Honnavar
 
 January 2026 – February 2026
 
-- Observed and studied overall cashew processing methods as part of a BBA organizational study.
+- Observed and studied overall cashew processing methods as part of a BBA internship.
 
 ---
 

@@ -62,20 +62,11 @@ I'm a BBA Graduate with a completed Data Analytics course from Besant Technologi
 
 ### 📊 Microsoft Excel
 
-**1. Customer Insights & Revenue Analytics**
+### 🛒 E-Commerce Sales Analytics
 
-- Analyzed customer behavior and revenue trends.
-- Explored repeat customer patterns.
+Excel dashboard analysing sales performance, product categories, customer orders and regional sales.
 
-**2. E-Commerce Sales Analytics**
-
-- Analyzed sales trends and product performance.
-- Examined regional sales performance.
-
-**3. Financial Performance Analytics**
-
-- Analyzed revenue and expenses.
-- Evaluated profitability and regional performance.
+[View Project](https://github.com/suleman-gani/ecommerce-sales-analytics)
 
 ### 🗄️ SQL
 

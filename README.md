@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Suleman Gani
 
-### BBA Graduate | Aspiring Data Analyst
+### BBA Graduate | Data Analytics | Excel | SQL | Power BI | Python
 
-Turning Data into Meaningful Insights 📊
+**Turning Data into Meaningful Business Insights 📊**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/suleman-gani-3a9a62392)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/suleman-gani)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sragani069@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sragani069@gmail.com)
 
 </div>
 
@@ -16,102 +16,157 @@ Turning Data into Meaningful Insights 📊
 
 ## 🙋‍♂️ About Me
 
-I'm a BBA Graduate and an aspiring Data Analyst interested in data analysis, data visualization, and solving business problems through data.
+I'm a BBA Graduate with a completed Data Analytics course from Besant Technologies. I have knowledge of data analysis, data cleaning, data manipulation, and visualization using various analytical tools.
 
 - 🎓 Bachelor of Business Administration (BBA)
-- 📊 Skilled in Advanced Microsoft Excel, SQL and Power Query
+- 📊 Completed Data Analytics Training at Besant Technologies
+- 💻 Skilled in Advanced Microsoft Excel and SQL (MySQL)
 - 📈 Knowledge of Power BI and Python for Data Analysis
-- 🔍 Interested in business insights and data-driven decision-making
-- 🌱 Continuously learning and developing practical projects
-- 💼 Looking to build my career in Data Analytics
+- 🔍 Interested in business analysis through data and visualization
+- 💼 Seeking an entry-level Data Analyst opportunity
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Data Analytics Tools
+### 📊 Microsoft Excel
+- Advanced Excel
+- Formulas and Functions
+- Lookup Functions
+- Pivot Tables and Pivot Charts
+- Conditional Formatting
+- Data Cleaning
+- Power Query
+- Data Model and Relationships
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### 🗄️ SQL (MySQL)
+- Stored Procedures
+- Window Functions
+- Common Table Expressions (CTEs)
+- Subqueries
+- Joins
+- Views
+- Aggregate Functions
+- Transactions
+- Data Manipulation
 
-### Technical Knowledge
+### 📈 Power BI
+- Data Visualization
+- Dashboard Development
+- Report Creation
 
-- **Advanced Excel:** Formulas, Functions, Lookup Functions, Pivot Tables, Pivot Charts, Conditional Formatting and Data Cleaning.
-- **Power Query:** Data Transformation, Data Cleaning, Merge and Append Queries.
-- **SQL (MySQL):** Joins, Subqueries, CTEs, Window Functions, Views, Stored Procedures and Transactions.
-- **Power BI:** Data Visualization, Dashboard Development and Report Creation.
-- **Python:** Data Analysis.
-- **Other Skills:** Microsoft Office and Basic SEO.
+### 🐍 Python
+- Data Analysis
+
+### 💼 Other Skills
+- Microsoft Office
+- Basic SEO
+
+---
+
+## 💻 Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,python" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</div>
 
 ---
 
 ## 📂 Data Analytics Projects
 
-### Microsoft Excel Projects
+### 📊 Microsoft Excel Projects
 
-| Project | Description |
-|---|---|
-| Customer Insights & Revenue Analytics | Customer behaviour, revenue trends and repeat customers |
-| E-Commerce Sales Analytics | Sales trends, product performance and regional sales |
-| Financial Performance Analytics | Revenue, expenses, profit and regional performance |
+**1. Customer Insights & Revenue Analytics**
+- Analyzed customer behavior.
+- Explored revenue trends.
+- Identified repeat customers.
 
-### SQL Project
+**2. E-Commerce Sales Analytics**
+- Analyzed sales trends.
+- Evaluated product performance.
+- Explored regional sales.
+
+**3. Financial Performance Analytics**
+- Analyzed revenue and expenses.
+- Evaluated profitability.
+- Examined regional performance.
+
+### 🗄️ SQL Project
 
 **PVR Theater Ticket Booking and Cancelling System**
 
-- Designed a MySQL database for theater ticket booking and cancellation.
-- Created tables for theaters, bookings and cancelled bookings.
+- Designed a MySQL database for theater ticket booking.
+- Created tables for theaters, bookings, and cancelled bookings.
 - Implemented stored procedures for booking and cancelling tickets.
+- Practiced joins, subqueries, CTEs, window functions and transaction control.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Business Administration (BBA)**  
-Dr. A. V. Baliga College of Commerce, Kumta  
-CGPA: 7.94/10 | Completed: 2026
+**Bachelor of Business Administration (BBA)**
 
-**Commerce (Class 12)**  
-H.B. Government College, Kumta  
-2021–2023 | 80.5%
+Dr. A. V. Baliga College of Commerce, Kumta
+
+- Completed: 2026
+- CGPA: 7.94/10
+
+**Commerce – Class 12**
+
+H. B. Government College, Kumta
+
+- 2021–2023
+- Percentage: 80.5%
+
+**SSLC – Class 10**
+
+Janata Vidyalaya, Kadfoka, Honnavar
+
+- Percentage: 65.76%
 
 ---
 
 ## 📜 Certifications
 
-- Data Analytics Training – Besant Technologies
+- Data Analytics Course Completion – Besant Technologies
 - Microsoft Excel Certificate – Skill Course
-- Basic Computer Course – NIES Academy (2024)
+- Basic Computer Course Certificate – NIES Academy, Kumta (2024)
 
 ---
 
-## 💼 Organizational Study
+## 🏭 Organizational Study
 
 **Al-Ziyad Cashew Industry**
 
 January 2026 – February 2026
 
-- Observed and studied overall cashew processing methods as part of a BBA organizational study.
+- Observed and studied overall cashew processing methods.
+- Completed as part of BBA internship/organizational study.
 
 ---
 
 ## 💡 Soft Skills
 
+- Communication Skills
 - Analytical Thinking
 - Problem-Solving
-- Communication Skills
 - Willingness to Learn
 
 ---
 
 ## 🌐 Languages
 
-English | Hindi | Kannada
+- English
+- Hindi
+- Kannada
 
 ---
 
@@ -119,9 +174,11 @@ English | Hindi | Kannada
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suleman-gani&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=suleman-gani&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman-gani&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman-gani&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=suleman-gani&theme=tokyonight&hide_border=true" />
 
@@ -143,7 +200,7 @@ English | Hindi | Kannada
 
 <div align="center">
 
-📧 **Email:** [sragani069@gmail.com](mailto:sragani069@gmail.com)
+📧 **Email:** sragani069@gmail.com
 
 💼 **LinkedIn:** [Suleman Gani](https://linkedin.com/in/suleman-gani-3a9a62392)
 
@@ -151,21 +208,6 @@ English | Hindi | Kannada
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
-
-<!--
-**suleman-gani/suleman-gani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

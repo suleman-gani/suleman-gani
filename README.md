@@ -79,12 +79,11 @@ I'm a BBA Graduate with a completed Data Analytics course from Besant Technologi
 
 ### 🗄️ SQL
 
-**PVR Theater Ticket Booking and Cancelling System**
+### 🎬 PVR Theater Ticket Booking and Cancelling System
 
-- Designed a MySQL database for theater ticket booking.
-- Created tables for theaters, bookings and cancelled bookings.
-- Developed stored procedures for booking and cancelling tickets.
-- Implemented SQL queries using joins, subqueries, CTEs and window functions.
+MySQL project using Stored Procedures, Transactions and Error Handling.
+
+[View Project](https://github.com/suleman-gani/PVR-Theater-Ticket-Booking-System)
 
 ---
 

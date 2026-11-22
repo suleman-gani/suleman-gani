@@ -68,6 +68,12 @@ Excel dashboard analysing sales performance, product categories, customer orders
 
 [View Project](https://github.com/suleman-gani/ecommerce-sales-analytics)
 
+#### 📈 Financial Performance Analytics
+
+Excel dashboard analyzing revenue, expenses, profitability, and regional and departmental performance.
+
+[View Project](https://github.com/suleman-gani/financial-performance-analytics)
+
 ### 🗄️ SQL
 
 ### 🎬 PVR Theater Ticket Booking and Cancelling System

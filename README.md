@@ -112,8 +112,6 @@ CGPA: 7.94/10 | Completed: 2026
 
 💼 [LinkedIn Profile](https://linkedin.com/in/suleman-gani-3a9a62392)
 
-💻 [GitHub Profile](https://github.com/suleman-gani)
-
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
